@@ -16,7 +16,7 @@ jobs:
       uses: fifsky/wechat-work-action@v0.0.1
       with:
         # wechat work robot webhook
-        url:  https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=e89a12f7-0343-4dd3-b408-3080fd2e6400
+        url:  https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=631f3024-3fee-40d0-ad8b-f0ab326d53dd
         # message type
         type: text # optional, default is text
         # message content
